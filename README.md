@@ -13,7 +13,7 @@ Hard Drive: 256MB of free hard disk space
 ```
 *Caution: Will not work on Intel dual core or 32 bit CPU!*
 ### Installation instructions
-Download and extract the **SalvadorGame.rar** archive at your desired location. Open "Salvador Final" folder and run the **"Salvador.exe"** to play the game. We hope you'll like it!
+Download and extract the **Salvador.rar** archive at your desired location. Open "Salvador Final" folder and run the **"Salvador.exe"** to play the game. We hope you'll like it!
 
 *Optimised for FHD (1080p).* 
 
