@@ -16,6 +16,7 @@ Hard Drive: 256MB of free hard disk space
 Download and extract the **SalvadorGame.rar** archive at your desired location. Open "Salvador Final" folder and run the **"Salvador.exe"** to play the game. We hope you'll like it!
 
 *Optimised for FHD (1080p).* 
+
 *You can change the controls from input menu.*
 ## Built With
 * [Unity](https://unity3d.com/)
